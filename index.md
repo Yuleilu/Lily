@@ -29,9 +29,21 @@ Click to see more about my [ins pages](https://www.instagram.com/loveureverthing
 Click to see my current project [README.md](README.md)
 
 
+What can make me chill?
+- MOVIES
+* OUTDOOR
++ SUN
 
+Rank my fav movies:
+1. Carol
+2. Fallen Angels
+3. Boogle Nights
+
+
+- [ ] Get As
+- [ ] Explore good dining places
+- [ ] Find an Intern
 
 Section links
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 Ordered and Unordered Lists
 Task lists
