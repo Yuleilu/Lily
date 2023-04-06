@@ -21,7 +21,7 @@ int main() {
 }
 ```
 
-## Click to see my [ins pages](https://www.instagram.com/loveureverthing/)
+## Click to see my [INS pages](https://www.instagram.com/loveureverthing/)
 
 
 
