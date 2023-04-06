@@ -22,10 +22,11 @@ int main() {
 }
 ```
 
-Click to see more about me[ins page](https://www.instagram.com/loveureverthing/)
+Click to see more about my [ins pages](https://www.instagram.com/loveureverthing/)
 
-Quoting code
-External Links
+Click to see my current project []
+
+
 Section links
 Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 Ordered and Unordered Lists
