@@ -1,6 +1,6 @@
 ### WELCOME TO LILY's
-# PROGRAMMING 
-### LIFE
+## PROGRAMMING 
+# LIFE
 
 ~~This is my fav quote, saying by my fav person.~~	
 
@@ -22,7 +22,7 @@ int main() {
 }
 ```
 
-Click to see more about my [ins pages](https://www.instagram.com/loveureverthing/)
+Click to see my [ins pages](https://www.instagram.com/loveureverthing/)
 
 
 
@@ -44,6 +44,4 @@ Rank my fav movies:
 - [ ] Explore good dining places
 - [ ] Find an Intern
 
-Section links
-Ordered and Unordered Lists
-Task lists
+
